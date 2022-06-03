@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dev Panther👋</h1>
+<h1 align="center">Hi, I'm Dev Panther👋</h1>
 <h3 align="center">MERN Stack Developer | Web App Developer | Mobile App Developer</h3>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{devpanther}/count.svg" alt="AnhellO :: Visitor's Count" />
